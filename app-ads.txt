@@ -890,3 +890,4 @@ smartyads.com, RESELLER, fd2bde0ff2e62c5d.
 betweendigital.com, 44077, RESELLER
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3564 , RESELLER
+facebook.com, 378948590160427, RESELLER, c3e20eee3f780d68
