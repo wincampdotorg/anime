@@ -891,3 +891,4 @@ betweendigital.com, 44077, RESELLER
 pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 smartadserver.com, 3564 , RESELLER
 facebook.com, 378948590160427, RESELLER, c3e20eee3f780d68
+facebook.com, 1574627729376548, RESELLER, c3e20eee3f780d68
